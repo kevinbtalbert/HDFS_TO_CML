@@ -1,4 +1,4 @@
-# HDFS_TO_CML
+# Copy files and folders from HDFS TO CML
 Copy today's data or the total folder structure for an HDFS directory to CML workspace
 ### Usage
 
