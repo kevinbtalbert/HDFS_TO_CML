@@ -1,3 +1,3 @@
 import subprocess
-
-print(subprocess.run(["bash /HDFS_TO_CML/hdfs-to-cml.sh"], shell=True))
+## Update line below with 1 or 2
+print(subprocess.run(["bash /HDFS_TO_CML/hdfs-to-cml.sh 1"], shell=True))
