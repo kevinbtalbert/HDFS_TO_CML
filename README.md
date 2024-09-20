@@ -2,6 +2,9 @@
 Copy today's data or the total folder structure for an HDFS directory to CML workspace
 ### Usage
 
+#### Git Clone into project root directory
+`git clone https://github.com/kevinbtalbert/HDFS_TO_CML`
+
 #### Make it executable:
 `chmod +x /HDFS_TO_CML/hdfs-to-cml.sh`
 
