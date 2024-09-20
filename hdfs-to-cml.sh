@@ -7,7 +7,7 @@ HDFS_PATH="/path/to/hdfs/directory"
 TODAY=$(date +"%Y-%m-%d")
 
 # Define the destination directory
-DEST_DIR="/path/to/local/destination"
+DEST_DIR="/home/cdsw/data"
 
 # Define the keytab file and principal (replace with your actual keytab file and principal)
 KEYTAB_FILE="/path/to/keytab_file.keytab"

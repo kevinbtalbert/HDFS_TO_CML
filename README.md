@@ -3,7 +3,6 @@ Copy today's data or the total folder structure for an HDFS directory to CML wor
 ### Usage
 
 #### Make it executable:
-
 `chmod +x /HDFS_TO_CML/hdfs-to-cml.sh`
 
 #### Update Kerberos and Realm:
@@ -17,3 +16,6 @@ To copy the entire folder directory:
 `./HDFS_TO_CML/hdfs-to-cml.sh 2`
 
 Make sure to replace the HDFS_PATH and DEST_DIR with your actual HDFS and local destination paths.
+
+#### Create CML Job on schedule
+![](/assets/create-job.png)
